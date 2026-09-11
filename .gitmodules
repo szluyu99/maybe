@@ -1,3 +1,4 @@
 [submodule "survivor"]
 	path = survivor
 	url = https://github.com/szluyu99/survivor.git
+	branch = main
